@@ -1,0 +1,64 @@
+{
+  "sections": [
+    {
+      "title": "People Search",
+      "color": "from-pink-400 to-purple-500",
+      "links": [
+        { "name": "Pipl", "url": "https://pipl.com" },
+        { "name": "TruePeopleSearch", "url": "https://truepeoplesearch.com" },
+        { "name": "Spokeo", "url": "https://spokeo.com" },
+        { "name": "WhitePages", "url": "https://whitepages.com" }
+      ]
+    },
+    {
+      "title": "Username Check",
+      "color": "from-blue-400 to-green-500",
+      "links": [
+        { "name": "Namechk", "url": "https://namechk.com" },
+        { "name": "WhatsMyName", "url": "https://whatsmyname.app" },
+        { "name": "NameCheckup", "url": "https://namecheckup.com" },
+        { "name": "CheckUsernames", "url": "https://checkusernames.com" }
+      ]
+    },
+    {
+      "title": "Phone Lookup",
+      "color": "from-yellow-400 to-orange-500",
+      "links": [
+        { "name": "Truecaller", "url": "https://truecaller.com" },
+        { "name": "CallerID", "url": "https://callerid.com" },
+        { "name": "Sync.ME", "url": "https://sync.me" },
+        { "name": "NumLookup", "url": "https://numlookup.com" }
+      ]
+    },
+    {
+      "title": "Email Search",
+      "color": "from-red-400 to-pink-500",
+      "links": [
+        { "name": "Hunter.io", "url": "https://hunter.io" },
+        { "name": "Email Checker", "url": "https://email-checker.net" },
+        { "name": "Voila Norbert", "url": "https://voilanorbert.com" },
+        { "name": "Email Hippo", "url": "https://emailhippo.com" }
+      ]
+    },
+    {
+      "title": "Social Media",
+      "color": "from-indigo-400 to-purple-500",
+      "links": [
+        { "name": "Social Searcher", "url": "https://social-searcher.com" },
+        { "name": "Hootsuite", "url": "https://hootsuite.com" },
+        { "name": "TweetDeck", "url": "https://tweetdeck.twitter.com" },
+        { "name": "Social Mention", "url": "https://socialmention.com" }
+      ]
+    },
+    {
+      "title": "Image Search",
+      "color": "from-green-400 to-teal-500",
+      "links": [
+        { "name": "TinEye", "url": "https://tineye.com" },
+        { "name": "Google Images", "url": "https://images.google.com" },
+        { "name": "Bing Visual Search", "url": "https://www.bing.com/visualsearch" },
+        { "name": "Yandex Images", "url": "https://yandex.com/images" }
+      ]
+    }
+  ]
+}
