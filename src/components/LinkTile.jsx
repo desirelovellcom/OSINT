@@ -5,8 +5,9 @@ function LinkTile({ link }) {
       target="_blank"
       rel="noopener noreferrer"
       className="
-        bg-black/30
-        rounded-lg
+        bg-black/40
+        hover:bg-black/50
+        rounded-xl
         p-4
         mb-3
         w-full
@@ -16,9 +17,13 @@ function LinkTile({ link }) {
         text-center
         text-white
         font-medium
-        transition-colors
+        text-lg
+        transition-all
         duration-200
-        hover:bg-black/40
+        hover:scale-[1.02]
+        active:scale-[0.98]
+        shadow-lg
+        backdrop-blur-sm
       "
     >
       {link.name}
